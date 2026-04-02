@@ -1,0 +1,36 @@
+# 🔥 Virtual Environment
+venv/
+env/
+ENV/
+
+# 🔥 Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔥 Model files (optional - remove if you want to upload model)
+*.pt
+*.pth
+
+# 🔥 Large files
+*.mp4
+*.avi
+*.mov
+
+# 🔥 Logs
+*.log
+
+# 🔥 OS files
+.DS_Store
+Thumbs.db
+
+# 🔥 VS Code settings
+.vscode/
+
+# 🔥 Streamlit cache
+.streamlit/
+
+# 🔥 Temporary files
+*.tmp
+*.temp
